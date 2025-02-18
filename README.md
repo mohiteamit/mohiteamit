@@ -1,3 +1,5 @@
+![GitHub Banner](https://raw.githubusercontent.com/mohiteamit/mohiteamit/main/banner.png)
+
 # 👋 Hi, I'm Amit Mohite  
 
 🚀 **AI Enthusiast | Process Automation Expert | Machine Learning Practitioner**  
